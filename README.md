@@ -1,4 +1,4 @@
-# Simple Notes API Task
+# Simple Notes API
 
 A simple API for managing notes built with [Express.js](https://expressjs.com/).
 
